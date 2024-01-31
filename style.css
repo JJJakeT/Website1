@@ -1,6 +1,6 @@
 header
 {
-    background-color:#585858;
+    background-color:#59e0a1;
     color:white;
     text-align:center;
     padding:5px;
@@ -21,6 +21,7 @@ nav
 	height:500px;
     float:left;	 	 
 	background-color:#724444;
+  color: white;
 }
 
 footer {
